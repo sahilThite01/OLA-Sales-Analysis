@@ -16,20 +16,22 @@ The project uncovers insights into booking trends, cancellations, revenue distri
 
 | Screenshot | Description |
 |-----------|-------------|
-| ![Dashboard Screenshot 1](#) | Overall KPI Summary |
-| ![Dashboard Screenshot 2](#) | Booking Status Breakdown |
-| ![Dashboard Screenshot 3](#) | Vehicle Type & Ride Distance Insights |
-| ![Dashboard Screenshot 4](#) | Ratings Analysis |
-| ![Dashboard Screenshot 5](#) | Revenue & Payment Method Trends |
+| ![Dashboard Screenshot 1](/Assets/Page 1.jpg) | Overview |
+| ![Dashboard Screenshot 2](/Assets/Page 2.png) | Booking Status Breakdown |
+| ![Dashboard Screenshot 3](/Assets/Page 3.jpg) | Vehicle Type & Ride Distance Insights |
+| ![Dashboard Screenshot 4](/Assets/Page 4.jpg) | Ratings Analysis |
+| ![Dashboard Screenshot 5](/Assets/Page 5.jpg) | Revenue & Payment Method Trends |
 
 ---
 
 # 📁 Project Files
 
-- **Power BI Dashboard (.pbix)**  
-- **Dashboard Summary PDF**  
-- **Dataset (100,000+ rows synthetic OLA ride data)**  
-- **SQL Queries (Exploratory + View Creation + KPIs)**  
+- **Dataset (100,000+ rows synthetic OLA ride data)** 
+- **Power BI Dashboard (.pbix)**     
+- **SQL Queries (Exploratory + View Creation + KPIs)**
+- **UI Snippets**
+- **Backgrounds**
+       
 
 ---
 
@@ -47,7 +49,7 @@ It includes:
 - Payment methods  
 - Time-based demand patterns  
 
-The goal:  
+The goal is to:  
 ✔ Build an **end-to-end analytical pipeline**  
 ✔ Create a **Power BI Dashboard**  
 ✔ Run **SQL analysis** for validation  
@@ -115,7 +117,7 @@ SQL views were also created for improved reusability.
 
 ### Dashboard pages include:
 
-### **1️⃣ Overall View**
+### **1️⃣ Overview**
 - Ride Volume Over Time  
 - Booking Status Breakdown  
 
@@ -138,9 +140,6 @@ SQL views were also created for improved reusability.
 ---
 
 # 💡 Key Insights
-
-> *(Replace with insights observed in your dashboard)*
-
 - Ride demand peaks **on weekends and match days**  
 - **Driver cancellations exceed customer cancellations**  
 - **Prime Sedan & Prime Plus** generate higher revenue  
@@ -188,8 +187,10 @@ It demonstrates strong skills in **data analytics**, **BI reporting**, and **SQL
 
 If you found this project helpful, feel free to connect!
 
-- **LinkedIn:** *Add your profile*  
-- **GitHub:** *Your GitHub username*  
+- **LinkedIn:** [<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7f83a5c7-d664-41c4-8d3b-81522ba5e4de" />
+](https://www.linkedin.com/in/sahil-thite-2582a9231/)  
+- **GitHub:** *[<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/887b036f-33d3-4da3-9a27-cd6dd091fe99" />
+](https://github.com/sahilThite01)*  
 - **Email:** *Your email*
 
 ---
