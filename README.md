@@ -191,7 +191,8 @@ If you found this project helpful, feel free to connect!
 ](https://www.linkedin.com/in/sahil-thite-2582a9231/)  
 - **GitHub:** *[<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/887b036f-33d3-4da3-9a27-cd6dd091fe99" />
 ](https://github.com/sahilThite01)*  
-- **Email:** *Your email*
+- **Email:** [<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/d286c2a1-d7a7-4c1a-9f04-efd1216a1750" />
+](mailto:thitesahil100@gmail.com)
 
 ---
 
