@@ -5,22 +5,24 @@ The project uncovers insights into booking trends, cancellations, revenue distri
 
 ---
 
-## 📽️ Live Demo  
-👉 *Add your YouTube / Drive link here*  
-`[Demo Video Coming Soon]`
-
----
-
 ## 🖼️ Dashboard Screenshots  
 > Replace the image links with actual screenshots stored in your repo.
 
 | Screenshot | Description |
 |-----------|-------------|
-| ![Dashboard Screenshot 1](/Assets/Page 1.jpg) | Overview |
-| ![Dashboard Screenshot 2](/Assets/Page 2.png) | Booking Status Breakdown |
-| ![Dashboard Screenshot 3](/Assets/Page 3.jpg) | Vehicle Type & Ride Distance Insights |
-| ![Dashboard Screenshot 4](/Assets/Page 4.jpg) | Ratings Analysis |
-| ![Dashboard Screenshot 5](/Assets/Page 5.jpg) | Revenue & Payment Method Trends |
+| ![Dashboard Screenshot 1](https://github.com/user-attachments/assets/c16e382f-a94f-440e-82af-f4d80b79c27e) | Overview |
+| ![Dashboard Screenshot 2]<img width="1329" height="748" alt="Page 2" src="https://github.com/user-attachments/assets/c7f251f2-278a-4753-ad9b-cbb0af28b0bf" /> | Vehicle Type |
+| ![Dashboard Screenshot 3](https://github.com/user-attachments/assets/99cc6cbb-fc19-408b-9509-9d0393d918e4) | Revenue |
+| ![Dashboard Screenshot 4](https://github.com/user-attachments/assets/4175c96b-2adc-44b1-b678-7be328d7bb53) | Cancellation |
+| ![Dashboard Screenshot 5](https://github.com/user-attachments/assets/177b114e-5509-4470-bd49-f51c9ac44899) | Ratings |
+
+
+---
+
+
+## 📽️ Preview  
+https://github.com/user-attachments/assets/c071889f-3402-4d30-9ad5-30ad2fd13b9f
+
 
 ---
 
