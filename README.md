@@ -6,7 +6,6 @@ The project uncovers insights into booking trends, cancellations, revenue distri
 ---
 
 ## 🖼️ Dashboard Screenshots  
-> Replace the image links with actual screenshots stored in your repo.
 
 | Screenshot | Description |
 |-----------|-------------|
