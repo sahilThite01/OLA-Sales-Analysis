@@ -1,2 +1,198 @@
-# OLA-Sales-Analysis
-OLA Sales Analysis Full Interactive Dashboard using MS Power BI
+# 📊 OLA Sales & Ride Analysis Dashboard
+
+A complete **Data Analysis & Business Intelligence** project analyzing OLA ride performance using **Power BI**, **SQL**, and a large synthetic dataset (100,000+ rows).  
+The project uncovers insights into booking trends, cancellations, revenue distribution, and customer/driver satisfaction.
+
+---
+
+## 📽️ Live Demo  
+👉 *Add your YouTube / Drive link here*  
+`[Demo Video Coming Soon]`
+
+---
+
+## 🖼️ Dashboard Screenshots  
+> Replace the image links with actual screenshots stored in your repo.
+
+| Screenshot | Description |
+|-----------|-------------|
+| ![Dashboard Screenshot 1](#) | Overall KPI Summary |
+| ![Dashboard Screenshot 2](#) | Booking Status Breakdown |
+| ![Dashboard Screenshot 3](#) | Vehicle Type & Ride Distance Insights |
+| ![Dashboard Screenshot 4](#) | Ratings Analysis |
+| ![Dashboard Screenshot 5](#) | Revenue & Payment Method Trends |
+
+---
+
+# 📁 Project Files
+
+- **Power BI Dashboard (.pbix)**  
+- **Dashboard Summary PDF**  
+- **Dataset (100,000+ rows synthetic OLA ride data)**  
+- **SQL Queries (Exploratory + View Creation + KPIs)**  
+
+---
+
+# 🚀 Project Overview
+
+This project simulates a month of OLA rides in Bengaluru using 1,00,000+ rows of synthetic data.  
+It includes:
+
+- Ride bookings  
+- Cancellations  
+- Revenue metrics  
+- Vehicle types  
+- Locations  
+- Ratings  
+- Payment methods  
+- Time-based demand patterns  
+
+The goal:  
+✔ Build an **end-to-end analytical pipeline**  
+✔ Create a **Power BI Dashboard**  
+✔ Run **SQL analysis** for validation  
+✔ Present actionable insights for business decisions  
+
+---
+
+# 🧹 Data Cleaning & Preparation
+
+### Major data quality rules implemented:
+- Booking success rate maintained at **62%**
+- Customer cancellations ≤ **7%**
+- Driver cancellations ≤ **18%**
+- Incomplete rides < **6%**
+- Weekend + match-day bookings boosted
+- Booking IDs created as **10-digit values starting with CNR**
+- Revenue distribution targets:
+  - 70% < ₹500  
+  - 28% ₹500–₹1000  
+  - 2% > ₹1000  
+
+Synthetic locations include **50 Bengaluru areas**, used for pickup/drop points.
+
+---
+
+# 🗄️ Data Model
+
+### Key Columns:
+- Date, Time  
+- Booking_ID  
+- Booking_Status  
+- Customer_ID  
+- Vehicle_Type  
+- Pickup_Location  
+- Drop_Location  
+- VTAT (Vehicle Time to Arrive)  
+- CTAT (Customer Time to Arrive)  
+- Cancellation Details  
+- Incomplete Ride Reason  
+- Booking_Value  
+- Payment_Method  
+- Ride_Distance  
+- Driver_Ratings  
+- Customer_Rating  
+
+---
+
+# 🛢️ SQL Analysis
+
+### SQL queries include:
+- Successful bookings retrieval  
+- Average ride distance per vehicle type  
+- Top 5 customers by booking count  
+- Cancellation segmentation  
+- Driver vs customer behavior insights  
+- Revenue from successful rides  
+- Ratings distribution  
+- Incomplete ride extraction  
+
+SQL views were also created for improved reusability.
+
+---
+
+# 📊 Power BI Dashboard Insights
+
+### Dashboard pages include:
+
+### **1️⃣ Overall View**
+- Ride Volume Over Time  
+- Booking Status Breakdown  
+
+### **2️⃣ Vehicle Type Analysis**
+- Top 5 Vehicle Types by Ride Distance  
+
+### **3️⃣ Revenue Insights**
+- Revenue by Payment Method  
+- Top 5 High-Value Customers  
+- Ride Distance Distribution per Day  
+
+### **4️⃣ Cancellation Insights**
+- Customer Cancellation Reasons  
+- Driver Cancellation Reasons  
+
+### **5️⃣ Ratings & Feedback**
+- Driver Ratings Distribution  
+- Customer vs Driver Rating Comparison  
+
+---
+
+# 💡 Key Insights
+
+> *(Replace with insights observed in your dashboard)*
+
+- Ride demand peaks **on weekends and match days**  
+- **Driver cancellations exceed customer cancellations**  
+- **Prime Sedan & Prime Plus** generate higher revenue  
+- Most trips fall under **short-distance (<5 km)**  
+- Customer ratings are **generally higher** than driver ratings  
+
+---
+
+# 🏗️ Tech Stack
+
+| Category | Tools |
+|----------|-------|
+| Data Generation | ChatGPT |
+| Data Cleaning | Excel, Power Query |
+| Database | MySQL / SQL |
+| BI & Visualization | Power BI |
+| Documentation | GitHub, PDF |
+
+---
+
+# 📌 How to Use This Project
+
+1. Clone or download the repository  
+2. Open the `.pbix` file in Power BI Desktop  
+3. Load/Refresh the dataset  
+4. Explore the interactive dashboard  
+5. Review SQL scripts for backend validation  
+
+---
+
+# 🎯 Conclusion
+
+This project simulates **real-world ride-sharing analytics**, providing insights on:
+
+✔ Operational performance  
+✔ Revenue and business trends  
+✔ Customer/driver behavior  
+✔ City-wide ride patterns  
+
+It demonstrates strong skills in **data analytics**, **BI reporting**, and **SQL workflow**—ideal for data analyst portfolios.
+
+---
+
+# 📬 Contact
+
+If you found this project helpful, feel free to connect!
+
+- **LinkedIn:** *Add your profile*  
+- **GitHub:** *Your GitHub username*  
+- **Email:** *Your email*
+
+---
+
+### ⭐ If you like this project, don’t forget to star the repo!
+
