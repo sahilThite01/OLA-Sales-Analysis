@@ -5,6 +5,18 @@ The project uncovers insights into booking trends, cancellations, revenue distri
 
 ---
 
+
+# 📁 Project Files
+
+- **Dataset (100,000+ rows synthetic OLA ride data)** 
+- **Power BI Dashboard (.pbix)**     
+- **SQL Queries (Exploratory + View Creation + KPIs)**
+- **UI Snippets**
+- **Backgrounds**
+       
+
+---
+
 ## 🖼️ Dashboard Screenshots  
 
 | Screenshot | Description |
@@ -25,14 +37,24 @@ https://github.com/user-attachments/assets/c071889f-3402-4d30-9ad5-30ad2fd13b9f
 
 ---
 
-# 📁 Project Files
+# 🏗️ Tech Stack
 
-- **Dataset (100,000+ rows synthetic OLA ride data)** 
-- **Power BI Dashboard (.pbix)**     
-- **SQL Queries (Exploratory + View Creation + KPIs)**
-- **UI Snippets**
-- **Backgrounds**
-       
+| Category | Tools |
+|----------|-------|
+| Data Generation | ChatGPT |
+| Data Cleaning | Excel, Power Query |
+| Database | MySQL / SQL |
+| BI & Visualization | Power BI |
+| Documentation | GitHub, PDF |
+
+---
+
+# 💡 Key Insights
+- Ride demand peaks **on weekends and match days**  
+- **Driver cancellations exceed customer cancellations**  
+- **Prime Sedan & Prime Plus** generate higher revenue  
+- Most trips fall under **short-distance (<5 km)**  
+- Customer ratings are **generally higher** than driver ratings  
 
 ---
 
@@ -137,27 +159,6 @@ SQL views were also created for improved reusability.
 ### **5️⃣ Ratings & Feedback**
 - Driver Ratings Distribution  
 - Customer vs Driver Rating Comparison  
-
----
-
-# 💡 Key Insights
-- Ride demand peaks **on weekends and match days**  
-- **Driver cancellations exceed customer cancellations**  
-- **Prime Sedan & Prime Plus** generate higher revenue  
-- Most trips fall under **short-distance (<5 km)**  
-- Customer ratings are **generally higher** than driver ratings  
-
----
-
-# 🏗️ Tech Stack
-
-| Category | Tools |
-|----------|-------|
-| Data Generation | ChatGPT |
-| Data Cleaning | Excel, Power Query |
-| Database | MySQL / SQL |
-| BI & Visualization | Power BI |
-| Documentation | GitHub, PDF |
 
 ---
 
