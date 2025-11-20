@@ -1,6 +1,7 @@
 # 📊 OLA Sales & Ride Analysis Dashboard
 
-A complete **Data Analysis & Business Intelligence** project analyzing OLA ride performance using **Power BI**, **SQL**, and a large synthetic dataset (100,000+ rows).  
+A complete **Data Analysis & Business Intelligence** project analyzing OLA ride performance using **Power BI**, **SQL**, and a large synthetic dataset (100,000+ rows). 
+
 The project uncovers insights into booking trends, cancellations, revenue distribution, and customer/driver satisfaction. It includes data preprocessing, cleaning, and modeling, followed by SQL analysis to validate trends and extract KPIs.  
 The interactive Power BI dashboard showcases ride volumes, booking success rate, cancellation reasons, revenue distribution by payment method, vehicle-type performance, and customer/driver ratings.  
 It highlights operational inefficiencies, peak-demand time slots, revenue opportunities, and user behavior patterns-providing strong insights for data-driven decision-making in ride-sharing operations.
