@@ -143,23 +143,23 @@ SQL views were also created for improved reusability.
 
 ### Dashboard pages include:
 
-### ** Overview**
+### **Overview**
 - Ride Volume Over Time  
 - Booking Status Breakdown  
 
-### ** Vehicle Type Analysis**
+### **Vehicle Type Analysis**
 - Top 5 Vehicle Types by Ride Distance  
 
-### ** Revenue Insights**
+### **Revenue Insights**
 - Revenue by Payment Method  
 - Top 5 High-Value Customers  
 - Ride Distance Distribution per Day  
 
-### ** Cancellation Insights**
+### **Cancellation Insights**
 - Customer Cancellation Reasons  
 - Driver Cancellation Reasons  
 
-### ** Ratings & Feedback**
+### **Ratings & Feedback**
 - Driver Ratings Distribution  
 - Customer vs Driver Rating Comparison  
 
