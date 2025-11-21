@@ -1,4 +1,4 @@
-# 📊 OLA Sales & Ride Analysis Dashboard
+# OLA Sales & Ride Analysis Dashboard
 
 A complete **Data Analysis & Business Intelligence** project analyzing OLA ride performance using **Power BI**, **SQL**, and a large synthetic dataset (100,000+ rows). 
 
@@ -9,7 +9,7 @@ It highlights operational inefficiencies, peak-demand time slots, revenue opport
 ---
 
 
-# 📁 Project Files
+# Project Files
 
 - **Dataset (100,000+ rows synthetic OLA ride data)** 
 - **Power BI Dashboard (.pbix)**     
@@ -20,7 +20,7 @@ It highlights operational inefficiencies, peak-demand time slots, revenue opport
 
 ---
 
-## 🖼️ Dashboard Screenshots  
+## Dashboard Screenshots  
 
 | Screenshot | Description |
 |-----------|-------------|
@@ -34,13 +34,13 @@ It highlights operational inefficiencies, peak-demand time slots, revenue opport
 ---
 
 
-## 📽️ Preview  
+## Preview  
 https://github.com/user-attachments/assets/c071889f-3402-4d30-9ad5-30ad2fd13b9f
 
 
 ---
 
-# 🏗️ Tech Stack
+# Tech Stack
 
 | Category | Tools |
 |----------|-------|
@@ -52,7 +52,7 @@ https://github.com/user-attachments/assets/c071889f-3402-4d30-9ad5-30ad2fd13b9f
 
 ---
 
-# 💡 Key Insights
+# Key Insights
 - Ride demand peaks **on weekends and match days**  
 - **Driver cancellations exceed customer cancellations**  
 - **Prime Sedan & Prime Plus** generate higher revenue  
@@ -61,7 +61,7 @@ https://github.com/user-attachments/assets/c071889f-3402-4d30-9ad5-30ad2fd13b9f
 
 ---
 
-# 🚀 Project Overview
+# Project Overview
 
 This project simulates a month of OLA rides in Bengaluru using 1,00,000+ rows of synthetic data.  
 It includes:
@@ -83,7 +83,7 @@ The goal is to:
 
 ---
 
-# 🧹 Data Cleaning & Preparation
+# Data Cleaning & Preparation
 
 ### Major data quality rules implemented:
 - Booking success rate maintained at **62%**
@@ -101,7 +101,7 @@ Synthetic locations include **50 Bengaluru areas**, used for pickup/drop points.
 
 ---
 
-# 🗄️ Data Model
+# Data Model
 
 ### Key Columns:
 - Date, Time  
@@ -123,7 +123,7 @@ Synthetic locations include **50 Bengaluru areas**, used for pickup/drop points.
 
 ---
 
-# 🛢️ SQL Analysis
+# SQL Analysis
 
 ### SQL queries include:
 - Successful bookings retrieval  
@@ -139,33 +139,33 @@ SQL views were also created for improved reusability.
 
 ---
 
-# 📊 Power BI Dashboard Insights
+# Power BI Dashboard Insights
 
 ### Dashboard pages include:
 
-### **1️⃣ Overview**
+### ** Overview**
 - Ride Volume Over Time  
 - Booking Status Breakdown  
 
-### **2️⃣ Vehicle Type Analysis**
+### ** Vehicle Type Analysis**
 - Top 5 Vehicle Types by Ride Distance  
 
-### **3️⃣ Revenue Insights**
+### ** Revenue Insights**
 - Revenue by Payment Method  
 - Top 5 High-Value Customers  
 - Ride Distance Distribution per Day  
 
-### **4️⃣ Cancellation Insights**
+### ** Cancellation Insights**
 - Customer Cancellation Reasons  
 - Driver Cancellation Reasons  
 
-### **5️⃣ Ratings & Feedback**
+### ** Ratings & Feedback**
 - Driver Ratings Distribution  
 - Customer vs Driver Rating Comparison  
 
 ---
 
-# 📌 How to Use This Project
+# How to Use This Project
 
 1. Clone or download the repository  
 2. Open the `.pbix` file in Power BI Desktop  
@@ -175,7 +175,7 @@ SQL views were also created for improved reusability.
 
 ---
 
-# 🎯 Conclusion
+# Conclusion
 
 This project simulates **real-world ride-sharing analytics**, providing insights on:
 
