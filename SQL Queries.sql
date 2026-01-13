@@ -39,8 +39,7 @@ Select * from Rides_cancelled_due_to_personal_reason;
 CREATE view Max_Min_diver_rating AS  
 Select Vehicle_Type, max(Driver_Ratings) as 'Max. Rating', min(Driver_Ratings) as 'Min. Rating'
 from bookings
-where Vehicle_Type='Prime Sedan'
-GROUP BY Vehicle_Type;
+where Vehicle_Type='Prime Sedan';
 Select * from Max_Min_diver_rating;
 
 -- 7. Retrieve all rides where payment was made using UPI: 
